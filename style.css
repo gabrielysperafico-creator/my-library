@@ -43,8 +43,8 @@ color: rgb(37, 52, 79);
 
 img {
 
-display: flex;
-align-items: flex-start;
+object-fit: cover;
+max-width: 220px;
 }
 
 
